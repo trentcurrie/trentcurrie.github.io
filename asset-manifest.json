@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.08e628ca.chunk.css",
-    "main.js": "/static/js/main.b9255897.chunk.js",
-    "main.js.map": "/static/js/main.b9255897.chunk.js.map",
+    "main.css": "/static/css/main.d1ac2dcd.chunk.css",
+    "main.js": "/static/js/main.bd440d88.chunk.js",
+    "main.js.map": "/static/js/main.bd440d88.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d80f9bf5.js",
     "runtime-main.js.map": "/static/js/runtime-main.d80f9bf5.js.map",
     "static/js/2.eb2ee993.chunk.js": "/static/js/2.eb2ee993.chunk.js",
     "static/js/2.eb2ee993.chunk.js.map": "/static/js/2.eb2ee993.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.08e628ca.chunk.css.map": "/static/css/main.08e628ca.chunk.css.map",
+    "static/css/main.d1ac2dcd.chunk.css.map": "/static/css/main.d1ac2dcd.chunk.css.map",
     "static/js/2.eb2ee993.chunk.js.LICENSE.txt": "/static/js/2.eb2ee993.chunk.js.LICENSE.txt",
     "static/media/pubSubWhite.3d03f304.png": "/static/media/pubSubWhite.3d03f304.png",
     "static/media/shopSmartWhite.0ac16749.png": "/static/media/shopSmartWhite.0ac16749.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.d80f9bf5.js",
     "static/js/2.eb2ee993.chunk.js",
-    "static/css/main.08e628ca.chunk.css",
-    "static/js/main.b9255897.chunk.js"
+    "static/css/main.d1ac2dcd.chunk.css",
+    "static/js/main.bd440d88.chunk.js"
   ]
 }
